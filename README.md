@@ -39,7 +39,7 @@ python main.py
 ### Customizing Neural Network Parameters
 
 ```bash
-python main.py --N 4 --D 16 --s 0.75 --tmax 100000
+python main.py --N 4 --D 16 --s 0.75 --tmax 100000 --seed 3160697950
 ```
 
 - `--N`: Number of neurons in the hidden layer (default: 4)

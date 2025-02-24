@@ -1,7 +1,3 @@
-"""
-Utility functions for the neural attractor project.
-"""
-
 import os
 import numpy as np
 from typing import Tuple, Optional, List, Callable

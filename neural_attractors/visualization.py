@@ -1,8 +1,5 @@
 """
 Visualization tools for neural network attractors.
-
-This module provides functions for plotting neural network attractors
-in different styles.
 """
 
 import numpy as np

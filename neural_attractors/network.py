@@ -1,9 +1,5 @@
 """
-Neural network attractor generator based on J.C. Sprott's paper
-"Artificial Neural Net Attractors".
-
-This module implements the feedforward neural network with feedback
-that produces chaotic attractors.
+Feedforward neural network with feedback that produces attractors.
 """
 
 import numpy as np
@@ -24,7 +20,7 @@ class NeuralAttractor:
     N : int
         Number of neurons in the hidden layer
     D : int
-        Dimension of the input vector (embedding dimension)
+        Dimension of the input vector
     s : float
         Scaling factor for the output
     seed : Optional[int]
