@@ -1,4 +1,4 @@
-<p align="center"><img width=50% src="https://github.com/anyakors/neural_attractors/blob/main/misc/attractor_candyshape.png"></p>
+<p align="center"><img width=30% src="https://github.com/anyakors/neural_attractors/blob/main/misc/attractor_candyshape.png"></p>
 
 # Neural Attractors
 
